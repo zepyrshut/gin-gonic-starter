@@ -1,0 +1,4 @@
+environment.env
+database.yml
+coverage.out
+migrations/schema.sql
